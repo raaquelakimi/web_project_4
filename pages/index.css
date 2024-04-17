@@ -88,12 +88,6 @@
   line-height: 20px;
 }
 
-.header__content {
-  display: flex;
-  margin: 0;
-  flex-wrap: wrap;
-}
-
 .header__content-address {
 }
 
